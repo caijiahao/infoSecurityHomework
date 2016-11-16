@@ -97,14 +97,14 @@
             // 凯撒加密ToolStripMenuItem
             // 
             this.凯撒加密ToolStripMenuItem.Name = "凯撒加密ToolStripMenuItem";
-            this.凯撒加密ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.凯撒加密ToolStripMenuItem.Size = new System.Drawing.Size(145, 22);
             this.凯撒加密ToolStripMenuItem.Text = "凯撒加密";
             this.凯撒加密ToolStripMenuItem.Click += new System.EventHandler(this.凯撒加密ToolStripMenuItem_Click);
             // 
             // vignere加密ToolStripMenuItem
             // 
             this.vignere加密ToolStripMenuItem.Name = "vignere加密ToolStripMenuItem";
-            this.vignere加密ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.vignere加密ToolStripMenuItem.Size = new System.Drawing.Size(145, 22);
             this.vignere加密ToolStripMenuItem.Text = "Vignere加密";
             this.vignere加密ToolStripMenuItem.Click += new System.EventHandler(this.vignere加密ToolStripMenuItem_Click);
             // 
@@ -138,7 +138,7 @@
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "古典加密";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
